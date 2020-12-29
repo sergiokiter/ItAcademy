@@ -1,2 +1,6 @@
 Proyecte Git per IT Academy
+
 Fem nou canvi a master
+
+Modifiquem text del fitcher
+
